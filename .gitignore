@@ -18,3 +18,5 @@ __pycache__/
 *.log
 *.bak
 *.swp
+# Dados utilizados no repositorio
+data/
